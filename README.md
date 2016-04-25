@@ -1,3 +1,9 @@
+Fork from: https://github.com/eligrey/classList.js
+
+Put here for local reference and to include a bower.json to be included as a vendor package. Currently used by lzard-client.
+
+
+
 classList.js is a cross-browser JavaScript shim that fully implements `element.classList`. Refer to [the MDN page on `element.classList`][1] for more information.
 
 This works in every browser except IE 7 or earlier.
