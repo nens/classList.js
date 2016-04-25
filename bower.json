@@ -1,0 +1,14 @@
+{
+  "name": "classlist.js",
+  "version": "1.1.20150312",
+  "description": "Cross-browser JavaScript shim that fully implements element.classList (referenced on MDN)",
+  "main": [
+    "classList.min.js"
+  ],
+  "ignore": [],
+  "homepage": "https://github.com/eligrey/classList.js",
+  "authors": [
+    "me@eligrey.com"
+  ],
+  "license": "Public Domain"
+}
